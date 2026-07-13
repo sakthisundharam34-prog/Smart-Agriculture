@@ -39,36 +39,6 @@ This is to certify that the mini project report entitled " Implementation of Sma
 
 Sakthi Sundaram MP (922525244046) 
 
-under the guidance and supervision of Mr./Ms. ____________________, M.E., Assistant Professor, Department of Computer Science and Engineering, during the academic year 2025–2026, in partial fulfillment of the requirements for the award of the degree of Bachelor of Technology in Computer Science and Business System of V.S.B. Engineering College, Karur. 
-
-Project Guide 
-
-Signature 
-
-Assistant Professor 
-
-Department of CSBS 
-
-Head of the Department 
-
-Signature 
-
-Department of CSBS 
-
- 
-
-Submitted for the Project Viva-Voce Examination held on _____________. 
-
- 
-
- 
-
- 
-
-Internal Examiner 
-
-External Examiner 
-
  
 
 Abstract 
